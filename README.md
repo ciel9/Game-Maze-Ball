@@ -1,4 +1,4 @@
 # Game-Maze-Ball
-Sebuah game dimana playernya adalah bola yang harus mengumpulkan poin berupa crystall bernilai 10 poin dan jika menemukan pintu keluar mendapatkan poin crystall berukuran bsr yan memiliki nilai poin sebesar 100, terdapat obstacle berupa paku di dalamnya.
+A game where the player is a ball that must collect points in the form of a crystall worth 10 points and if you find gate exit of the maze, you will get a large crystall has a point value of 100. In the maze,there is some obstacle nail too.
 
-Disini Saya membuat bagian Easy Maze dan Navigasi menu dan suara button.
+Here I made the Easy Maze section and Navigation menus and sound buttons.
